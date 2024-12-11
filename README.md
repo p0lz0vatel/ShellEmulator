@@ -60,7 +60,7 @@ python -m unittest discover -s tests
 
 ## Тесты команд
 
-### Пример Использования
+### Код Теста
 
 ```python
     def test_ls(self):
