@@ -58,6 +58,8 @@ python -m unittest discover -s tests
 
 Все тесты были успешно выполнены. Ниже приведены результаты тестирования для каждой команды:
 
+<img width="440" alt="image" src="https://github.com/user-attachments/assets/983881d4-2884-4cee-ba61-9a72bc2f76c7" />
+
 ## Тесты команд
 
 ### Код Теста
@@ -83,7 +85,7 @@ python -m unittest discover -s tests
         self.emulator.cp('source.txt', 'destination.txt')
 ```
 
-### Пример Использования
+# Пример Использования
 ## Запуск эмулятора:
 ```python
 python shell_emulator.py test_config.ini
@@ -91,19 +93,19 @@ python shell_emulator.py test_config.ini
 
 ## Использование команд
 
-# 1. Использование команды ls:
+### 1. Использование команды ls:
 <img width="131" alt="image" src="https://github.com/user-attachments/assets/8d2e52bd-1e5e-4b8d-86bd-5c2174bc4453" />
 
-# 2. Использование команды cd:
+### 2. Использование команды cd:
 <img width="178" alt="image" src="https://github.com/user-attachments/assets/e6d610b5-8e19-4722-ad3f-eb36820c5754" />
 
-# 3. Использование команды head:
+### 3. Использование команды head:
 <img width="243" alt="image" src="https://github.com/user-attachments/assets/069f5872-6573-418b-9ef0-4b1c7c2dece1" />
 
-# 4. Использование команды chown:
+### 4. Использование команды chown:
 <img width="347" alt="image" src="https://github.com/user-attachments/assets/e44a5196-59b4-4523-8e41-5f247877fea1" />
 
-# 4. Использование команды cp:
+### 5. Использование команды cp:
 <img width="317" alt="image" src="https://github.com/user-attachments/assets/611fe67d-f46e-416e-ad37-0dd888687414" />
 
 
